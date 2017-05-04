@@ -1,0 +1,14 @@
+M
+2
+4
+//Test Illegal Map Char
+//level 0
+...S
+.#..
+..##
+E..#
+//level 1
+H..#
+*...
+....
+E##.
